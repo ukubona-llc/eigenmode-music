@@ -868,9 +868,9 @@ That's why the diminished-7th episode is so revealing.
 
 A rootless D7♭9 is:
 
-[
+$$
 F^\sharp - A^\flat - C - E^\flat
-]
+$$
 
 which is a fully diminished seventh chord.
 
@@ -918,15 +918,15 @@ It's not merely transposition.
 
 It's a repeated attempt to separate:
 
-[
+$$
 \text{Identity}
-]
+$$
 
 from
 
-[
+$$
 \text{Trajectory}
-]
+$$
 
 The notes change.
 
@@ -968,9 +968,9 @@ Which is why, in your Freud language, the true object isn't the dominant.
 
 It's the error:
 
-[
+$$
 \varepsilon_{FGT}
-]
+$$
 
 The listener predicts G.
 
@@ -1021,15 +1021,15 @@ It was teaching you about **symmetry**.
 
 The rootless D7♭9:
 
-[
+$$
 F^\sharp - A^\flat - C - E^\flat
-]
+$$
 
 is not merely ambiguous.
 
 It's symmetric.
 
-F^{\sharp}\rightarrow A^{\flat}\rightarrow C\rightarrow E^{\flat}
+$F^{\sharp}\rightarrow A^{\flat}\rightarrow C\rightarrow E^{\flat}$
 
 Every interval is a minor third.
 
@@ -1085,15 +1085,15 @@ It may be a **voice-leading transformation**.
 
 The thing that survived wasn't:
 
-[
+$$
 D9
-]
+$$
 
 It was:
 
-[
+$$
 (C,F^\sharp)\rightarrow(B,G)
-]
+$$
 
 The tritone collapsing.
 
