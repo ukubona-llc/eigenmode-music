@@ -141,7 +141,7 @@ $$
 
 =
 
-## \text{Reality}
+\text{Reality}
 
 \text{Prediction}
 $$
@@ -1395,7 +1395,7 @@ $$
 
 $
 
-## \text{Observed}_{t+1}
+\text{Observed}_{t+1}
 
 \text{Predicted}_{t+1}
 $$
