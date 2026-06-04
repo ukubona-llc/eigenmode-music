@@ -38,10 +38,10 @@ This is exactly how you isolate the **Eigenmode** in the compression stack:
 It's eigenvector shit, yes. In linear algebra terms: your different key transpositions are like applying basis changes or perturbations to the same underlying operator. The eigenvector is what doesn't rotate away — the compressed invariant that your mind/ear eventually locks onto.
 
 ### Connection to the Freud / digital twin framework
-On the Freud page, the move from **Phase IV (manic Pyro — raw generative heat, high-surprise eigenmode emissions)** to **Phase V (annealed Cryo — cooled scalar reconciliation, lower |ε_FGT|²)** mirrors this beautifully.
+On the Freud page, the move from **Phase IV (manic Pyro — raw generative heat, high-surprise eigenmode emissions)** to **Phase V (annealed Cryo — cooled scalar reconciliation, lower `|ε_FGT|²`)** mirrors this beautifully.
 
 - Playing in G major repeatedly = early manic projection. Lots of heat, local pattern completion, next-token prediction based on familiar context.
-- Forcing all 12 keys = the distortion / annealing process. You generate predictions under uncertainty ("how does this Dom9 function here?"), then the actual sound (FGT) delivers the error signal. High |ε| at first in awkward keys → gradual cooling as the eigenmode stabilizes.
+- Forcing all 12 keys = the distortion / annealing process. You generate predictions under uncertainty ("how does this Dom9 function here?"), then the actual sound (FGT) delivers the error signal. High `|ε|` at first in awkward keys → gradual cooling as the eigenmode stabilizes.
 - The real "figure out the eigenmode" moment happens **ex-post**, after the errors from multiple distorted realizations have updated your internal model. Just like the page says: GitHub (or your musical memory) as hippocampus for indexing near-misses and projecting them forward.
 
 This is why transposition is such a powerful teacher. It prevents you from mistaking a single comfortable projection (memory in one key) for the deeper compressed understanding (the eigenmode that generalizes).
@@ -264,7 +264,7 @@ $$
 
 =
 
-\arg\min |\varepsilon_{FGT}|^2
+\arg\min \|\varepsilon_{FGT}\|^2
 $$
 
 The thing that survives all key changes is the thing that eventually stops surprising you.
